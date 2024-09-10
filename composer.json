@@ -1,0 +1,13 @@
+{
+    "name": "gabriel-javierto/project-folder",
+    "description": "Generating Data using FakerPHP",
+    "require": {
+        "fakerphp/faker": "^1.19"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "license": "MIT"
+}
